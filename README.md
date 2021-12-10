@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=papple23g)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Languages and Tools:
 <br/>
 
@@ -23,9 +25,6 @@
 [<img align="left" alt="linux" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/azure/azure.png" />][webdevplaylist]
 
 <br/><br/><br/>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=papple23g)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
